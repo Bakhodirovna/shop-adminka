@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  font-family:  'arial', 'sans-serif';
+  margin: 0;
+  padding: 0;
+  background: #2F2F2F;
+  
+}
+
+.container{
+  width: 100%;
+}
+.top{
+  width: 100%;
+  background-color: #202020;
+  height: 50px;  
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
